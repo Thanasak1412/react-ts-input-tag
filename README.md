@@ -10,7 +10,6 @@ A customizable tag input component built with React, TypeScript, and Tailwind CS
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
