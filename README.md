@@ -34,16 +34,6 @@ A customizable tag input component built with React, TypeScript, and Tailwind CS
 - 📝 Maximum tags limit
 - 🧪 Comprehensive test coverage
 
-## Demo
-
-[View Live Demo](https://react-ts-input-tag-demo.vercel.app)
-
-![TagInput Demo](./docs/demo.gif)
-
-_Note: Demo URL and image are placeholders - update with actual demo when available_
-
-The component provides a modern, intuitive interface for managing tags with real-time feedback and smooth animations.
-
 ## Installation
 
 ### Requirements
@@ -158,7 +148,7 @@ The component is compatible with all modern browsers:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-ts-input-tag.git
+git clone https://github.com/Thanasak1412/react-ts-input-tag.git
 cd react-ts-input-tag
 ```
 
